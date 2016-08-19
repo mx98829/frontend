@@ -1,0 +1,6 @@
+http://techbrij.com/css-selector-adjacent-child-sibling
+https://www.w3.org/wiki/CSS3/Selectors/attribute_selector/attribute
+http://stackoverflow.com/questions/9193214/why-does-overflow-hidden-stop-floating-elements-escaping-their-container
+section
+semantic
+https://helpx.adobe.com/x-productkb/policy-pricing/cs6-product-downloads.html

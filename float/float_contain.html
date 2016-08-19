@@ -1,0 +1,41 @@
+<!doctype = html>
+<html lang="en-US">
+  <head>
+  <style>
+    #columns {
+      width: 900px;
+      padding: 30px;
+      margin: 0 auto;
+    }
+
+    #primary {
+      float: left;
+      width: 600px;
+      background: yellow;
+    }
+
+    #secondary {
+      float: right;
+      width: 280px;
+      background: yellow;
+    }
+    #columns:after {
+      display: block;
+      clear: both;
+      content: "";
+    }
+
+  </style>
+  </head>
+  <body>
+  <div id="columns">
+    <div id="primary">
+      <h1>Main Content</h1>
+    </div>
+
+    <div id="secondary">
+      <h3>Sidebar Content</h3>
+    </div>
+   </div>
+  </body>
+</html>
